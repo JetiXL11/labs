@@ -1,0 +1,13 @@
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.exe
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.deps.json
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.runtimeconfig.json
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.runtimeconfig.dev.json
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.dll
+D:\ЛабаКурсы1\laba\bin\Debug\netcoreapp3.1\laba.pdb
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.csprojAssemblyReference.cache
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.AssemblyInfoInputs.cache
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.AssemblyInfo.cs
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.csproj.CoreCompileInputs.cache
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.dll
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.pdb
+D:\ЛабаКурсы1\laba\obj\Debug\netcoreapp3.1\laba.genruntimeconfig.cache
